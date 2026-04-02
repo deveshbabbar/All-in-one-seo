@@ -1,0 +1,15 @@
+{
+  "name": "All-in-One SEO",
+  "description": "Complete SEO + GEO + AEO audit & optimization skill for AI coding agents",
+  "author": "deveshbabbar",
+  "repository": "https://github.com/deveshbabbar/All-in-one-seo",
+  "skills": [
+    {
+      "name": "seo-audit",
+      "description": "Full SEO/GEO/AEO audit and optimization following 2025-2026 Google guidelines",
+      "path": "skills/seo-audit.md"
+    }
+  ],
+  "tags": ["seo", "geo", "aeo", "google", "search-optimization", "next-js", "structured-data", "schema-org", "ads"],
+  "version": "1.0.0"
+}
